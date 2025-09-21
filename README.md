@@ -3,6 +3,12 @@
 
 A smart skeleton loader generator and playground.
 
+ 
+## ✨ Demo
+
+**[Skeleton Loader Website](https://www.skeletonloaders.com/)**
+
+
 ## 🚀 Features
 
 - **Pixel-Perfect Loader Components:** Supports rectangles, squares, custom icon loaders, and more for visually accurate loading screens.
@@ -14,12 +20,4 @@ A smart skeleton loader generator and playground.
 ## 🚀 Beta Features
 
 - **AI-Powered Loader Generation:** Just enter any website URL and automatically generate matching skeleton loaders that reflect the site's real layout using DOM analysis.
-
-  
-## ✨ Demo
-
-See the main dashboard screenshot below:
-
-**[Skeleton Loader Board Demo](https://www.skeletonloaders.com/)**
-
 
