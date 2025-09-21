@@ -1,3 +1,4 @@
+![Screen Shot](favicon.ico?raw=true)
 # Skeleton Loader Platform
 
 A smart skeleton loader generator and playground.
@@ -19,5 +20,6 @@ A smart skeleton loader generator and playground.
 
 See the main dashboard screenshot below:
 
-![Skeleton Loader Board Demo](https://www.skeletonloaders.com/)
+**[Skeleton Loader Board Demo](https://www.skeletonloaders.com/)**
+
 
